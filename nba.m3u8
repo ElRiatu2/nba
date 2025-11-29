@@ -1,25 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 1
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/616202e3-69aa-4ca5-8798-7f4819448023.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e32d020e-01f7-4a5d-98e2-d15f9fa3e191.ts
 
 #EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 2
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/54b04ecc-84c4-4a18-b5ac-14f4d710c048.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/22daa710-bbe6-4038-874d-b7479838337b.ts
 
 #EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 3
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/3d1d4a7c-ada3-4105-8c66-9f80c6b060c9.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/6c818eb7-ac04-4025-8636-ae25f3af95a6.ts
 
 #EXTINF:-1 tvg-id="NBA4" tvg-name="NBA 4" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 4
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/37ceaab0-6a11-4e2e-a94d-bacb92ef317d.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fe41d3a6-c374-483d-8f2e-2bb648d3c397.ts
 
 #EXTINF:-1 tvg-id="NBA5" tvg-name="NBA 5" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 5
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/d7668090-9bd8-4570-8331-dba64a2c36b3.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/b4ac7b83-1f3e-4345-b131-7f4320988de3.ts
 
 #EXTINF:-1 tvg-id="NBA6" tvg-name="NBA 6" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 6
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/1120c33c-8cc6-4f8c-9e0c-d08c3d6908dd.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/763dd0d1-f62a-4e50-9ee7-39c1f38bcafd.ts
 
 #EXTINF:-1 tvg-id="NBA7" tvg-name="NBA 7" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 7
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/54be5b2d-da09-4bd3-bb58-1c1627cda5eb.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e43f4311-e37a-472e-96de-1b1735c5acca.ts
 
 #EXTINF:-1 tvg-id="NBA8" tvg-name="NBA 8" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 8
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/44ae0f79-556f-4853-b488-bd9cbe3be15b.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2ff71dd4-c2bb-4303-8fd2-5318770c812a.ts
+
+#EXTINF:-1 tvg-id="NBA9" tvg-name="NBA 9" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 9
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2ff71dd4-c2bb-4303-8fd2-5318770c812a.ts
+
+#EXTINF:-1 tvg-id="NBA10" tvg-name="NBA 10" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 10
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/49e98a11-a5ee-4cc2-b553-71ff1828a384.ts
+
+#EXTINF:-1 tvg-id="NBA11" tvg-name="NBA 11" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 11
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/77ad5377-ffb0-4a17-aacf-68649791c8ca.ts
