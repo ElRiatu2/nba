@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 1
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e32d020e-01f7-4a5d-98e2-d15f9fa3e191.ts
+#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Washington Wizards vs. Boston Celtics
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/017a3eb8-a2c1-40da-8829-2a54e919f205.ts
 
-#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 2
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/22daa710-bbe6-4038-874d-b7479838337b.ts
+#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Philadelphia 76ers vs. Golden State Warriors
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/9908a4c6-cab8-42bf-9504-f19a705f5ba0.ts
 
-#EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 3
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/6c818eb7-ac04-4025-8636-ae25f3af95a6.ts
+#EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",Brooklyn Nets vs. Utah Jazz 
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/81711318-0d30-473f-a168-ef8815c3899d.ts
 
-#EXTINF:-1 tvg-id="NBA4" tvg-name="NBA 4" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 4
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fe41d3a6-c374-483d-8f2e-2bb648d3c397.ts
+#EXTINF:-1 tvg-id="NBA4" tvg-name="NBA 4" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Toronto Raptors vs. Los Angeles Lakers
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f2683aee-bae9-4327-91cc-68d9baeee132.ts
 
-#EXTINF:-1 tvg-id="NBA5" tvg-name="NBA 5" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 5
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/b4ac7b83-1f3e-4345-b131-7f4320988de3.ts
+#EXTINF:-1 tvg-id="NBA5" tvg-name="NBA 5" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  New Orleans Pelicans vs. Minnesota Timberwolves
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/dad4b8db-8f78-49ea-b217-2557581e81fc.ts
 
 #EXTINF:-1 tvg-id="NBA6" tvg-name="NBA 6" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 6
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/763dd0d1-f62a-4e50-9ee7-39c1f38bcafd.ts
