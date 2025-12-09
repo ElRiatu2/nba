@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Washington Wizards vs. Boston Celtics
+#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://static.flashscore.com/res/image/data/n198bwDr-dKKQkSOQ-l0jb3WKi.png" group-title="Deportes",NBA Orlando Magic vs. Miami Heat 5:00pm
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/017a3eb8-a2c1-40da-8829-2a54e919f205.ts
 
-#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Philadelphia 76ers vs. Golden State Warriors
+#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://static.flashscore.com/res/image/data/UmPff6f5-AXwV3Tr4-dfaUavPf.png" group-title="Deportes",NBA Toronto Raptors vs. New York Knicks 7:30pm
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/9908a4c6-cab8-42bf-9504-f19a705f5ba0.ts
 
 #EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",Brooklyn Nets vs. Utah Jazz 
