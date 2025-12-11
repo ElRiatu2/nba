@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://static.flashscore.com/res/image/data/bFgddNh5-rwyTPGoL-4zc22IQb.png" group-title="Deportes",NBA Oklahoma Thunder vs. Phoenix Suns 6:30pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/20f5c9e2-9e26-4a86-b179-3c324272e956.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c91147ef-3b1b-4927-b3c3-d64d5a0342aa.ts
 
 #EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-CQLrLe1b-SrHHDGUm.png" group-title="Deportes",NBA Los Angeles Lakers vs. San Antonio Spurs 9:00pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/1df772ec-b0f6-48ea-8356-aa6c526b7e38.ts
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/cb913231-c76d-455d-a94d-c3dca286b35f.ts
 
 #EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",Brooklyn Nets vs. Utah Jazz 
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/81711318-0d30-473f-a168-ef8815c3899d.ts
