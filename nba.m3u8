@@ -1,27 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://static.flashscore.com/res/image/data/bFgddNh5-rwyTPGoL-4zc22IQb.png" group-title="Deportes",NBA Oklahoma Thunder vs. Phoenix Suns 6:30pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c91147ef-3b1b-4927-b3c3-d64d5a0342aa.ts
+#EXTINF:-1 tvg-id="ATLANTAHAWKS" tvg-name="NBA Atlanta Hawks" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/atlanta-hawks-logo-transparent.png" group-title="NBA",NBA Atlanta Hawks
+http://yuniott.xyz/W9G5594/7KZL4WT/79528
 
-#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-CQLrLe1b-SrHHDGUm.png" group-title="Deportes",NBA Los Angeles Lakers vs. San Antonio Spurs 9:00pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/cb913231-c76d-455d-a94d-c3dca286b35f.ts
+#EXTINF:-1 tvg-id="BOSTONCELTICS" tvg-name="NBA Boston Celtics" tvg-logo="https://upload.wikimedia.org/wikipedia/an/0/04/Boston_Celtics_logo.png" group-title="NBA",NBA Boston Celtics
+http://yuniott.xyz/W9G5594/7KZL4WT/79529
 
-#EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",Brooklyn Nets vs. Utah Jazz 
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/81711318-0d30-473f-a168-ef8815c3899d.ts
+#EXTINF:-1 tvg-id="BROOKLYNNETS" tvg-name="NBA Brooklyn Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png" group-title="NBA",NBA Brooklyn Nets
+http://yuniott.xyz/W9G5594/7KZL4WT/79530
 
-#EXTINF:-1 tvg-id="NBA4" tvg-name="NBA 4" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  Toronto Raptors vs. Los Angeles Lakers
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f2683aee-bae9-4327-91cc-68d9baeee132.ts
+#EXTINF:-1 tvg-id="CHARLOTTEHORNETS" tvg-name="NBA Charlotte Hornets" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png" group-title="NBA",NBA Charlotte Hornets
+http://yuniott.xyz/W9G5594/7KZL4WT/79531
 
-#EXTINF:-1 tvg-id="NBA5" tvg-name="NBA 5" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA  New Orleans Pelicans vs. Minnesota Timberwolves
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/dad4b8db-8f78-49ea-b217-2557581e81fc.ts
+#EXTINF:-1 tvg-id="CHICAGOBULLS" tvg-name="NBA Chicago Bulls" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/chicago-bulls-logo-transparent.png" group-title="NBA",NBA Chicago Bulls
+http://yuniott.xyz/W9G5594/7KZL4WT/79532
 
-#EXTINF:-1 tvg-id="NBA6" tvg-name="NBA 6" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 6
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/763dd0d1-f62a-4e50-9ee7-39c1f38bcafd.ts
+#EXTINF:-1 tvg-id="CLEVELANDCAVALIERS" tvg-name="NBA Cleveland Cavaliers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cleveland_Cavaliers_logo.svg/1189px-Cleveland_Cavaliers_logo.svg.png" group-title="NBA",NBA Cleveland Cavaliers
+http://yuniott.xyz/W9G5594/7KZL4WT/79533
 
-#EXTINF:-1 tvg-id="NBA7" tvg-name="NBA 7" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 7
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e43f4311-e37a-472e-96de-1b1735c5acca.ts
+#EXTINF:-1 tvg-id="DALLASMAVERICKS" tvg-name="NBA Dallas Mavericks" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/mavs-logo.png" group-title="NBA",NBA Dallas Mavericks
+http://yuniott.xyz/W9G5594/7KZL4WT/79534
 
-#EXTINF:-1 tvg-id="NBA8" tvg-name="NBA 8" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 8
+#EXTINF:-1 tvg-id="DENVERNUGGETS" tvg-name="NBA Denver Nuggets" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 8
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2ff71dd4-c2bb-4303-8fd2-5318770c812a.ts
 
 #EXTINF:-1 tvg-id="NBA9" tvg-name="NBA 9" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/04/nba-logo_brandlogos.net_ipeky.png" group-title="Deportes",NBA 9
